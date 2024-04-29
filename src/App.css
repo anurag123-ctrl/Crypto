@@ -1,3 +1,12 @@
 .crypto-list {
-    height: 36rem;
+    height: 37rem;
+}
+
+.gap-2 {
+    padding: 10px;
+    border-radius: 8px 8px;
+}
+
+.grid {
+    background-color: brown;
 }
